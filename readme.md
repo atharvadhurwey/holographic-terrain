@@ -1,4 +1,4 @@
-# Holographis Terrain
+# Holographic Terrain
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
